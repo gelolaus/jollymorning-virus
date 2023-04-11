@@ -1,0 +1,5 @@
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\WinFormsApp1.exe
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\WinFormsApp1.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\WinFormsApp1.deps.json
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\WinFormsApp1.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\WinFormsApp1.pdb

@@ -1,0 +1,17 @@
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.exe
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.pdb
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.pdb
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Release\net6.0-windows\ref\WinFormsApp1.dll
