@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\JollibeeGreeter.pdb
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\D3DCompiler_47_cor3.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\PenImc_cor3.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\PresentationNative_cor3.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\vcruntime140_cor3.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\wpfgfx_cor3.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\JollibeeGreeter.exe

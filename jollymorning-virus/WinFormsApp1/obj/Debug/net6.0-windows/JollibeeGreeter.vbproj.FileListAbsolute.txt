@@ -1,0 +1,17 @@
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.vbproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.vbproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.AssemblyInfo.vb
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.vbproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Debug\net6.0-windows\JollibeeGreeter.exe
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Debug\net6.0-windows\JollibeeGreeter.deps.json
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Debug\net6.0-windows\JollibeeGreeter.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Debug\net6.0-windows\JollibeeGreeter.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\bin\Debug\net6.0-windows\JollibeeGreeter.pdb
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.Form1.resources
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\refint\JollibeeGreeter.dll
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.pdb
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\JollibeeGreeter.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\Coding\jollymorning-virus\jollymorning-virus\WinFormsApp1\obj\Debug\net6.0-windows\ref\JollibeeGreeter.dll

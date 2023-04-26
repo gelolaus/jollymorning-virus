@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Desktop\\Coding\\jollymorning-virus\\jollymorning-virus\\WinFormsApp1\\WinFormsApp1.vbproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\angel\\OneDrive\\Desktop\\Coding\\jollymorning-virus\\jollymorning-virus\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Desktop\\Coding\\jollymorning-virus\\jollymorning-virus\\WinFormsApp1\\JollibeeGreeter.vbproj",
+      "projectName": "JollibeeGreeter",
+      "projectPath": "C:\\Users\\angel\\OneDrive\\Desktop\\Coding\\jollymorning-virus\\jollymorning-virus\\WinFormsApp1\\JollibeeGreeter.vbproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\angel\\OneDrive\\Desktop\\Coding\\jollymorning-virus\\jollymorning-virus\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
